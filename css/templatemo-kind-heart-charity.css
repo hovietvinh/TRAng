@@ -1597,6 +1597,11 @@ blockquote::before {
     min-height: inherit;
   }
 }
+@media screen and (max-width: 768px){
+.fix1{
+  margin-bottom: 23px;
+}
+}
 
 @media screen and (max-width: 480px) {
   h1 {
